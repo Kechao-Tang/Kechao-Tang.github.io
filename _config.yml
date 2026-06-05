@@ -24,10 +24,10 @@ repository               : "Kechao-Tang/Kechao-Tang.github.io"
 author:
   # Biographic information
   avatar           : "Kechao headphoto 2026.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Assistant Professor"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "School of Integrated Circuits"
+  location         : "Building of Micro/Nano Electronics"
   employer         : "Peking University"
   uri              : # URL
   email            : "tkch@pku.edu.cn" 
