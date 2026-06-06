@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=0DXPNTQAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : #"https://orcid.org/yourorcidurl"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/kechao-tang-49512a73/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
