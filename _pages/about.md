@@ -18,7 +18,7 @@ Teaching:
 
 Research Overview
 ------
-![The image showing overview of Kechao Tang's research]
+![The image showing overview of Kechao Tang's research](/images/research overview 2025.png)
 
 **Google scholar：**
 https://scholar.google.com/citations?user=0DXPNTQAAAAJ&hl=en
