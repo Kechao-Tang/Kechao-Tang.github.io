@@ -18,7 +18,7 @@ The metal-insulator phase transition of vanadium dioxide(VO2) displays rich phys
 2. Novel devices based on coupling of ferroelectrics and phase change materials
 ## Highlighted Work
 
-### A BEOL FeFET-Based Multi-bit ACiM Macro with High Accuracy and Throughput via Device-Array-System Co-Optimization for Edge LM (IEDM 2025, Technical Highlight Paper)
+### A BEOL FeFET-Based Multi-bit ACiM Macro with High Accuracy and Throughput via Device-Array-System Co-Optimization for Edge LM (IEDM 2025, Technical Highlight Paper) [HTML](https://ieeexplore.ieee.org/abstract/document/11353662/)
 ![IEDM 2025](/images/highlight-work-2025-iedm.png)
 
 ## 研究方向
