@@ -18,7 +18,7 @@ Teaching:
 
 Research Overview
 ------
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+![Editing a Markdown file for a talk](/images/research-overview-2025.png)
 
 **Google scholar：**
 https://scholar.google.com/citations?user=0DXPNTQAAAAJ&hl=en
