@@ -11,54 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2012-2017, Ph.D in Materials Science and Engineering, Stanford University
+* 2008-2012, B.S. in Physics, Peking University, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021 – Present，Peking University, School of Integrated Circuits, Assistant Professor
+* 2020 – 2021, Peking University, Department of Microelectronics, Assistant Professor
+* 2017 – 2020, University of California, Berkeley, Department of Materials Science and Engineering, Postdoctoral scholar
+  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+教育背景
+======
+* 2012 – 2017，斯坦福大学，材料科学与工程，博士学位
+* 2008 – 2012，北京大学，物理学，学士学位
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+工作经历
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2021 – 现在，北京大学，集成电路学院，助理教授，研究员
+* 2020 – 2021，北京大学，微纳电子研究院，助理教授，研究员
+* 2017 – 2020，加州伯克利大学，材料科学与工程，博士后
