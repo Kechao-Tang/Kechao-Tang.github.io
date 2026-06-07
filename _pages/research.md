@@ -16,6 +16,7 @@ The metal-insulator phase transition of vanadium dioxide(VO2) displays rich phys
 
 1. Design of high-performance infrared sensor and in-sensor computing
 2. Novel devices based on coupling of ferroelectrics and phase change materials
+
 ## Highlighted Work
 ### 3D Vertical FeFET Array with Record Endurance (>1e12), Fast Writing (±2V, 20 ns), Disturb Immunity, and Kb-scale Verification for High Density 1T RAM (VLSI 2026)
 ![VLSI 2026](/images/highlight-work-2026-vlsi.png)
