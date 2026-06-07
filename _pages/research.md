@@ -18,7 +18,8 @@ The metal-insulator phase transition of vanadium dioxide(VO2) displays rich phys
 2. Novel devices based on coupling of ferroelectrics and phase change materials
 ## Highlighted Work
 
-I am interested in embedded RRAM, FeRAM, MRAM, and PCRAM for low-power and high-density memory applications.
+### A BEOL FeFET-Based Multi-bit ACiM Macro with High Accuracy and Throughput via Device-Array-System Co-Optimization for Edge LM (IEDM 2025, Technical Highlight Paper)
+![IEDM 2025](/images/highlight-work-2025-iedm.png)
 
 ## 研究方向
 ### 氧化铪基铁电材料与器件
