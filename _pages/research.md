@@ -17,9 +17,26 @@ The metal-insulator phase transition of vanadium dioxide(VO2) displays rich phys
 1. Design of high-performance infrared sensor and in-sensor computing
 2. Novel devices based on coupling of ferroelectrics and phase change materials
 ## Highlighted Work
+### 3D Vertical FeFET Array with Record Endurance (>1e12), Fast Writing (±2V, 20 ns), Disturb Immunity, and Kb-scale Verification for High Density 1T RAM (VLSI 2026)
+![VLSI 2026](/images/highlight-work-2026-vlsi.png)
 
 ### A BEOL FeFET-Based Multi-bit ACiM Macro with High Accuracy and Throughput via Device-Array-System Co-Optimization for Edge LM (IEDM 2025, Technical Highlight Paper) [HTML](https://ieeexplore.ieee.org/abstract/document/11353662/)
 ![IEDM 2025](/images/highlight-work-2025-iedm.png)
+
+### 3D NOR-Type FeFETs with Record Endurance of 1e11, Fast Erase of 50 ns, and Immediate Read-After-Write for In-Memory Learning (VLSI 2025) [HTML](https://ieeexplore.ieee.org/document/11074820)
+![VLSI 2025](/images/highlight-work-2025-vlsi.png)
+
+### First demonstration of high throughput and reliable homomorphic encryption using FeFET arrays for resource-limited IoT clients (IEDM 2024) [HTML](https://ieeexplore.ieee.org/document/10873504)
+![IEDM 2024](/images/highlight-work-2024-iedm.png)
+
+### Ferroelectric and interlayer co-optimization with in-depth analysis for high endurance FeFET (IEDM 2022) [HTML](https://ieeexplore.ieee.org/document/10019465)
+![IEDM 2022](/images/highlight-work-2022-iedm.png)
+
+### Temperature-adaptive radiative coating for all-season household thermal regulation (Science 2021) [HTML](https://www.science.org/doi/10.1126/science.abf7136)
+![Science 2021](/images/highlight-work-science-2021.png)
+
+### Memsensing by surface ion migration within Debye length (Nature Materials 2025) [HTML](https://www.nature.com/articles/s41563-025-02312-9)
+![NM 2025](/images/highlight-work-2025-nm.png)
 
 ## 研究方向
 ### 氧化铪基铁电材料与器件
