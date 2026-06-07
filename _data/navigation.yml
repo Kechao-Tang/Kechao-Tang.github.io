@@ -16,13 +16,13 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /Research/
+    url: /research/
 
   - title: "Gallery"
-    url: /Gallery/
+    url: /gallery/
 
   - title: "News"
-    url: /News/
+    url: /news/
     
   #- title: "Talks"
   #  url: /talks/    
