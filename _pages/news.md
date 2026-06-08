@@ -3,11 +3,17 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-**March 24** 
+**May 06-08, 2026** 
+Prof. Tang gives invited talks at Stanford GLAM special seminar, and UC Berkley BETR/EECS Solid State Technologies Seminar
+
+**Mar 24, 2026** 
 Congratulations to Yuejia Zhou, for his paper accepted by 2026 IEEE VLSI! 
 
-**March 03** 
-Prof. Tang gives an invited talk at 2025 IEEE EDTM (Penang, Malaysia)
+**Mar 23, 2026** 
+Prof. Tang gives an invited talk at 2026 IEEE CSTIC (Shanghai, China)
+
+**Mar 03, 2026** 
+Prof. Tang gives an invited talk at 2026 IEEE EDTM (Penang, Malaysia)
 
 **Dec 6, 2025** 
 Our 2025 IEEE IEDM paper is selected as one of the technical highlights of the conference (total 20 globally). Congratulations to all the authors of this paper!
