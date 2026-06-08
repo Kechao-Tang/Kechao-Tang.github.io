@@ -18,6 +18,9 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Members"
+    url: /members/
+    
   - title: "Gallery"
     url: /gallery/
 
