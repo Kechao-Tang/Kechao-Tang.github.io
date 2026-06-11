@@ -1,13 +1,12 @@
 ---
-layout: default
+layout: archive
 title: Publications
 permalink: /publications/
+author_profile: true
 ---
 
-# Publications
-
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+You can also find my articles on [my Google Scholar profile]({{ site.author.googlescholar }}).
 {% endif %}
 
 {% assign pubs_by_year = site.data.publications | group_by: "year" | sort: "name" | reverse %}
@@ -18,7 +17,7 @@ permalink: /publications/
 {% for pub in year.items %}
 **{{ pub.title }}**  
 {{ pub.authors }}  
-*{{ pub.venue }}*, {{ pub.year }}.
+*{{ pub.venue }}*, {{ pub.year }}.  
 
 {% if pub.doi %}
 [DOI]({{ pub.doi }})
