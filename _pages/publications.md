@@ -25,9 +25,9 @@ You can also find my articles on [my Google Scholar profile]({{ site.author.goog
 {% if pub.pdf %}
 [PDF]({{ pub.pdf }})
 {% endif %}
-# {% if pub.code %}
-# [Code]({{ pub.code }})
-# {% endif %}
+{% if pub.code %}
+[Code]({{ pub.code }})
+{% endif %}
 
 <br>
 
