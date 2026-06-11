@@ -1,0 +1,23 @@
+- title: "A High-Density RRAM Macro for Embedded Non-Volatile Memory Applications"
+  authors: "Kechao Tang, A. Zhang, B. Li, and C. Wang"
+  venue: "IEEE International Electron Devices Meeting (IEDM)"
+  year: 2025
+  doi: "https://doi.org/xxxx"
+  pdf: "/assets/pdfs/rram-iedm-2025.pdf"
+  code: ""
+
+- title: "Selector Device Engineering for Large-Scale Resistive Memory Arrays"
+  authors: "Kechao Tang, X. Liu, Y. Chen, and Z. Wang"
+  venue: "Nature Electronics"
+  year: 2024
+  doi: "https://doi.org/xxxx"
+  pdf: ""
+  code: ""
+
+- title: "Emerging Memory Devices for In-Memory Computing"
+  authors: "Kechao Tang and collaborators"
+  venue: "Advanced Electronic Materials"
+  year: 2023
+  doi: ""
+  pdf: "/assets/pdfs/emerging-memory-2023.pdf"
+  code: ""
