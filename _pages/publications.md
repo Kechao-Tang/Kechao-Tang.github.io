@@ -22,7 +22,7 @@ You can also find my articles on [my Google Scholar profile]({{ site.author.goog
   </div>
 
   <div style="margin-bottom: 0.15em;">
-    {{ pub.authors }}
+    {{ pub.authors | replace: '\*', '*' }}
   </div>
 
   <div>
