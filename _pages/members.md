@@ -3,7 +3,6 @@ title: "Members"
 permalink: /members/
 author_profile: true
 ---
-<h1 style="font-size: 44px; font-weight: 400; margin-bottom: 18px;">Students</h1>
 
 <style>
 .members-table-wrap {
@@ -54,7 +53,7 @@ author_profile: true
 }
 </style>
 
-<div class="members-section-title">Current Students</div>
+<div class="members-section-title">Current Members</div>
 
 <div class="members-table-wrap">
 <table class="members-table">
